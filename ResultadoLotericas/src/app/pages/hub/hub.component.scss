@@ -144,6 +144,24 @@
         top: 70%;
         right: 0%;
         color: white;
+        .premio{
+            margin-top: 5px;
+            font-weight: 700;
+            font-size: 1.2rem;
+        }
+        
+        .ganhadores, .valorpremio {
+            font-weight: 600;
+        }
+        .acumulou{
+            margin-top: 20px;
+            
+            font-weight: 700;
+            font-size: 1.2rem;
+            .P-concurso{
+                margin-top: 20px;
+            }
+        }
     }
 }
 
